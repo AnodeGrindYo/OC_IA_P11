@@ -7,14 +7,14 @@ Le but du projet est de fournir aux utilisateurs des recommandations d'articles 
 
 Dans ce dépôt, vous trouverez les livrables qui ont été présentés lors de la réunion COMEX (Comité Exécutif), où le projet a été présenté pour approbation. Les livrables comprennent :
 
-- Le backlog complet avec 5 histoires d'utilisateurs. Cela a permis de définir le périmètre et d'évaluer le projet.
+- Le backlog complet avec les user stories. Cela a permis de définir le périmètre et d'évaluer le projet.
 - Un fichier Excel avec les éléments suivants : 
   - estimation détaillée des coûts et de la rentabilité du projet, 
   - un registre des traitements CNIL pour au moins un traitement orienté IA, 
   - une identification et évaluation des risques détaillés avec un plan d'action.
 - Un support de présentation avec une diapositive de résumé exécutif, les objectifs du projet et les gains attendus, l'identification des ressources humaines, techniques et financières requises, une brève présentation de la méthodologie Agile, et les questions juridiques et éthiques, y compris celles liées aux biais dans le modèle et à la collecte de données personnelles.
 
-Nous espérons que vous trouverez ce dépôt informatif et captivant. Merci pour votre intérêt pour le projet d'application mobile Fashion-Insta.
+Nous espérons que vous trouverez ce dépôt informatif et captivant. Merci pour votre intérêt pour ce projet d'application mobile Fashion-Insta.
 
 ## NB
 Ce projet est fictif et a été réalisé dans le cadre du parcours Ingénieur IA
